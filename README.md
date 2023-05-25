@@ -9,3 +9,6 @@
 For those who want to remember elementary school :)
 
 I will add English to localization soon
+
+
+math.exe soon
