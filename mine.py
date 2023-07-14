@@ -15,13 +15,14 @@ while True:
     if answer == control:
         good += 1
         Questions += 1
-    
+
     if answer != control:
         bad += 1
         Questions += 1
 
     if Questions == Questionsmuch:
         print("==================================")
+        print(f"Задано примеров: {Questionsmuch}")
         print(f"Ваши правильные ответы: {good}")
         print(f"Ваши неправильные ответы: {bad}")
         print("==================================")
